@@ -24,7 +24,7 @@ Figure 1: Colonie of *Pocillopora spp.* in the lagoon of Mo'orea at different fl
 For example:   
 
 | Date | Site | Coral cover | Algae cover | CCA cover | ... |
-|------|------|-------------|-------------|-----------|-----|
+|------|------|-------------|-------------|-----------|-----|vscode-file://vscode-app/c:/Users/USER/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/code/electron-sandbox/workbench/workbench.html
 |      |      |             |             |           |     |
 |      |      |             |             |           |     |
 |      |      |             |             |           |     |
