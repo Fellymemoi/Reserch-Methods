@@ -43,11 +43,15 @@
 
 ## Photos
 
-![Dissection Setup](![alt text](D1)
-*Figure 1: Prepared lionfish on dissection tray with labeled tools.*
+Dissection Setup
 
-![Internal Organs](![alt text](image-2.png))
-*Figure 2: Lionfish internal organs after midline incision.*
+![alt text](<WhatsApp Image 2025-07-10 at 01.50.36 (3)-1.jpeg>)
+
+Figure 1: Prepared lionfish on dissection tray with labeled tools.
+
+![alt text](<WhatsApp Image 2025-07-10 at 01.49.32 (3)-1.jpeg>)
+
+Figure 2: Lionfish internal organs after midline incision.
 
 
 ## Data Table
@@ -66,15 +70,20 @@
 
 ## Scientific Reference
 
-- [Lionfish Dissection Techniques](hhtps://researchgate.net/publication/345678912-Lionfish-Dissection-Techniques)
+_Lionfish Dissection Technique
+
+***(hhtps://researchgate.net/publication/345678912-Lionfish-Dissection-Techniques)***
 
 ## **Online Protocal
-- [Trizol Reagent Procedure](https://www.thermofisher.com/order/catalog/product/15596026)
+- Trizol Reagent Procedure
+
+***(https://www.thermofisher.com/order/catalog/product/15596026)***
 
 ## Graph
 
-! [Lionfish Lengths Over Time](![alt text](image-3.png))
-*Figure 3: Varition in lionfish length across sampled date.*
+![alt text](<WhatsApp Image 2025-07-10 at 01.51.21 (5)-2.jpeg>)
+
+Figure 3: Varition in lionfish length across sampled date.
 
 
 
